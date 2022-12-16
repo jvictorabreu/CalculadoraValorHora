@@ -1,2 +1,4 @@
 # CalculadoraValorHora
-Atividade avaliativa A3_Programação de Soluções computacionais - Calculadora para cobrança de projetos
+
+Nome: João Victor Abreu dos Santos
+RA:   12722216713
